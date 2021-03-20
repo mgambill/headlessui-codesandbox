@@ -1,5 +1,5 @@
 {
-  "name": "vite-ts-tailwind-starter",
+  "name": "vue-headlessui-components",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
@@ -35,5 +35,7 @@
   },
   "prettier": {
     "printWidth": 1000
-  }
+  },
+  "keywords": [],
+  "description": "This sandbox is preview for a  PR"
 }
