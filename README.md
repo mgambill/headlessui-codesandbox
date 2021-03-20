@@ -1,2 +1,1 @@
-# headlessui-codesandbox
-Created with CodeSandbox
+# Vite Typescript + Tailwind Starter
